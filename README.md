@@ -23,7 +23,11 @@ Omit --global to set the identity only in this repository.
 
 ## Git internals
 - Anything in Git is a file.
-- Files can be accessed with Hash.
+- Files can be accessed with Hash: `git cat-file -p foo`
+- Directed acyclic graph of commits. In each commit:
+    - Tree: root dir of repo, has further trees or blobs. 
+    - Parent: hash of a commit
+    - Metadata: author, commiter, message
 - `.gitignore`
 
 ## Resolve divergence
