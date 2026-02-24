@@ -10,7 +10,7 @@ Reference: [ProGit book](https://git-scm.com/book/en/v2)
 - GitHub Desktop just to avoid terminal?
 - Stage your changes and commit.
 - Sync: fetch and push.
-- Config: 
+- Config (possible message): 
 ```
 Run
 
