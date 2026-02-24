@@ -24,3 +24,7 @@ Omit --global to set the identity only in this repository.
 ## Git internals
 - Anything in Git is a file.
 - Files can be accessed with Hash.
+- `.gitignore`
+
+## Resolve conflicts
+- Pull: merge, rebase, fast-forward
