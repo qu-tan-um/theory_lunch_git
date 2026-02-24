@@ -24,3 +24,5 @@ Omit --global to set the identity only in this repository.
 ## Git internals
 - Anything in Git is a file.
 - Files can be accessed with Hash.
+
+blah
