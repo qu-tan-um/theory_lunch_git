@@ -26,7 +26,7 @@ Omit --global to set the identity only in this repository.
 - Files can be accessed with Hash.
 - `.gitignore`
 
-## Resolve divergence
+## Ah oh
 ```
 > git pull --tags origin main
 From https://github.com/qu-tan-um/theory_lunch_git
@@ -45,4 +45,5 @@ hint: or --ff-only on the command line to override the configured default per
 hint: invocation.
 fatal: Need to specify how to reconcile divergent branches.
 ```
-- Pull: merge, rebase, fast-forward
+- pull: merge, rebase, fast-forward
+- reset 
