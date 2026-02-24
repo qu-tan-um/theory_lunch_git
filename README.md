@@ -50,4 +50,4 @@ hint: invocation.
 fatal: Need to specify how to reconcile divergent branches.
 ```
 - pull: merge, rebase, fast-forward
-- reset 
+- reset --soft HEAD~1: keep all your changes while removing commit.
