@@ -49,5 +49,6 @@ hint: or --ff-only on the command line to override the configured default per
 hint: invocation.
 fatal: Need to specify how to reconcile divergent branches.
 ```
+- branch: can always save your changes and deal with them later.
 - git pull: merge, rebase, fast-forward
 - git reset --soft HEAD~1: keep all your changes while removing previous commit.
