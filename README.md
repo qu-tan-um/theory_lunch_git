@@ -8,7 +8,7 @@ Reference: [ProGit book](https://git-scm.com/book/en/v2)
     - Or `git clone git@foo` when SSH is set up.
     - You can specify a directory name: `git clone git@foo <dir>`.
 - GitHub Desktop just to avoid terminal?
-- Stage your changes and commit.
+- Stage your changes and commit. Then you always have these changes somewhere.
 - Sync: fetch and push.
 - Config (possible message): 
 ```
