@@ -1,6 +1,7 @@
 # Theory Lunch on Git
 Tutorial: [YouTube video](https://youtu.be/rH3zE7VlIMs?si=wRHP4x8sS3ga6OY3),
 Reference: [ProGit book](https://git-scm.com/book/en/v2)
+Cheat sheet: [page](https://git-scm.com/cheat-sheet)
 
 ## Getting a repo, making a commit
 - GitHub webpage + IDE extension (VS Code).
